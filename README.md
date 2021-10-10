@@ -16,3 +16,10 @@ Just exec:
 ```shell
 python code_poetry.py
 ```
+
+Output:
+```
+days.that_you_feel('gray')='Like sky in the rain'
+days.that_you_feel('bad')="when='2021/10/10' a hug is not so bad"
+And a suport phrase could help!! 🫂
+```
